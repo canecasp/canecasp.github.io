@@ -1,0 +1,35 @@
+center{
+    color: rgb(39, 5, 161);
+}
+ centh1 {
+    font-family: Helvetica;
+    color: #ffffff;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #300404;
+}
+ 
+nav{
+    color: #000000;
+}
+button{
+    column-width: 0cap;
+    color: #5f04aa;
+    border: #af0505;
+    font-style: italic;
+}
+    
+body {
+    background-color: black;
+   }body {
+    background-color: #fdf7f7;
+   }
+h1{
+    color: #0514e6;
+    font-weight: 800;
+    background-color: #05e663;
+    border: #e5ff00;
+}
+li{
+    color: #0514e6;
+    font-weight: bolder;
+}
